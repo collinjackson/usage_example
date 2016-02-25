@@ -1,9 +1,4 @@
-# REPLACE_ME
+# usage_example
 
-A library for Flutter developers. It is awesome.
+A sample demonstrating the usage package and Flutter.
 
-## Features and bugs
-
-Please file feature requests and bugs at the [issue tracker][tracker].
-
-[tracker]: https://github.com/flutter/REPLACE_ME/issues

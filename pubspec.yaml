@@ -1,14 +1,11 @@
-name: REPLACE_ME
+name: usage_example
 version: 0.0.1
-description: A sample library.
+description: A sample demonstrating the usage package and Flutter.
 author: Flutter Team <flutter-dev@googlegroups.com>
-homepage: https://github.com/flutter/REPLACE_ME
+homepage: https://github.com/collinjackson/usage_example
 
 environment:
   sdk: '>=1.0.0 <2.0.0'
 
-#dependencies:
-#  lib_name: any
-dev_dependencies:
-# change this to a specific version range when you create your project
-  test: REPLACE_ME
+dependencies:
+  usage: any
